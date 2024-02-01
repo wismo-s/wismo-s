@@ -5,7 +5,13 @@
        alt="snake" /></a>
 </div>
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=wismo-s&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wismo-s&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight)
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=wismo-s&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wismo-s&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wismo-s&theme=tokyonight) 
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=wismo-s&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
 <!--
 **wismo-s/wismo-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
