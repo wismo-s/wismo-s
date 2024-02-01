@@ -5,7 +5,7 @@
        alt="snake" /></a>
 </div>
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=wismo-s&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wismo-s&theme=tokyonight) |
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=wismo-s&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wismo-s&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight)
 <!--
 **wismo-s/wismo-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
