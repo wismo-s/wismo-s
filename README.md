@@ -13,7 +13,7 @@
   
 - 👯 Ask me about Python, Django, Rect, JavaScript
   
-- 💬  You can shoot me an email at stepha1228.af@gmail.com! I'll try to respond as soon as I can.
+- 💬  You can shoot me an email at stepha2128.af@gmail.com! I'll try to respond as soon as I can.
   
 - ⚡ Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 <div align="center">
